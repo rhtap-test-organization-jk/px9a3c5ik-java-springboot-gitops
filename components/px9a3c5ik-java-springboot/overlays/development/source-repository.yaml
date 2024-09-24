@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: px9a3c5ik-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/px9a3c5ik-java-springboot
